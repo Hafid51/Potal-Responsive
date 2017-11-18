@@ -1,0 +1,23 @@
+body {
+	background: url("pengertian-php.jpg");
+	background-size: cover;
+}
+header h1 {
+	color: #fff;
+	font-family: algerian;
+	font-weight: bold;
+	font-size: 80px;
+}
+.panel {
+	background: transparent;
+	color: #fff;
+}
+.panel:hover {
+	
+}
+.panel .panel-footer {
+	background: transparent;
+}
+.rem {
+	border-radius: 50%;
+}
